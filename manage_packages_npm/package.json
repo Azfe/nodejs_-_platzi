@@ -1,0 +1,18 @@
+{
+  "name": "manage_packages_npm",
+  "version": "1.0.0",
+  "description": "a nodejs package",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": "Alex Zapata <alexzapata1984@gmail.com>",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
+  }
+}
