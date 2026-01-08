@@ -1,0 +1,12 @@
+{
+  "name": "curso_nodejs_-_platzi",
+  "version": "1.0.0",
+  "description": "nodejs examples",
+  "license": "MIT",
+  "author": "Alex Zapata <alexzapata1984@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
