@@ -1,3 +1,5 @@
+require('dotenv').config();
+console.log("API KEY CARGADA:", process.env.OPENAI_API_KEY);
 const fs = require('fs');
 const { open } = require('inspector/promises');
 const path = require('path');
